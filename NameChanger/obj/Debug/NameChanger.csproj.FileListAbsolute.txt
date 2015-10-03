@@ -1,0 +1,8 @@
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\bin\Debug\NameChanger.exe
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\bin\Debug\NameChanger.pdb
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\obj\Debug\NameChanger.Form1.resources
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\obj\Debug\NameChanger.Properties.Resources.resources
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\obj\Debug\NameChanger.csproj.GenerateResource.Cache
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\obj\Debug\NameChanger.exe
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\NameChanger\NameChanger\obj\Debug\NameChanger.pdb
